@@ -40,7 +40,7 @@
               />
             </v-avatar>
             <h1 class="font-weight-bold textoGris title">
-              Angel Junior Torres Archbold
+            Juan Daniel Lopez Flores
             </h1>
             <p class="subtitle-1 font-weight-medium textoGris2">
               Creador y diseñador de aplicativos Web complejos para la solución
