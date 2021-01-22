@@ -49,7 +49,7 @@
               marca personal.
             </p>
             <h1 class="font-weight-bold textoGris title ">
-              Información personal
+              Información personal de daniel
             </h1>
             <p class="subtitle-1 font-weight-medium textoGris2">
               <v-icon color="#00C78F">mdi mdi-email</v-icon>
