@@ -27,7 +27,7 @@
         <div class="row">
           <div class="col-md-12 mt-6">
             <h1 class="font-weight-bold textoGris text-left">
-              Perfil profesional
+              Perfil profesional de daniel flores
             </h1>
             <v-divider width="200" color="#00C78F"></v-divider>
           </div>
